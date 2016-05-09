@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserTjack.Console", "LaserTjack.Console\LaserTjack.Console.csproj", "{CC7A4D93-B16F-4A97-AD32-07D9BC048DA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserTjack.Core", "LaserTjack\LaserTjack.Core.csproj", "{7CCE6E8C-1063-465A-9C3A-90B566D5E8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserTjack.Test", "LaserTjack.Test\LaserTjack.Test.csproj", "{BE824E81-962F-4D37-B0CD-A1BEF5233A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7A4D93-B16F-4A97-AD32-07D9BC048DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7A4D93-B16F-4A97-AD32-07D9BC048DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7A4D93-B16F-4A97-AD32-07D9BC048DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7A4D93-B16F-4A97-AD32-07D9BC048DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCE6E8C-1063-465A-9C3A-90B566D5E8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCE6E8C-1063-465A-9C3A-90B566D5E8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCE6E8C-1063-465A-9C3A-90B566D5E8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCE6E8C-1063-465A-9C3A-90B566D5E8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE824E81-962F-4D37-B0CD-A1BEF5233A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE824E81-962F-4D37-B0CD-A1BEF5233A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE824E81-962F-4D37-B0CD-A1BEF5233A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE824E81-962F-4D37-B0CD-A1BEF5233A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

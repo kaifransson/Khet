@@ -1,0 +1,7 @@
+*[n/N]crunch*
+\.vs/*
+packages/*
+*\~
+*/bin/*
+*/obj/*
+*ncrunchproject
